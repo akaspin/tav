@@ -4,6 +4,13 @@ Command-line options parser for [node.js](http://nodejs.org/).
 
 *In the Phoenician alphabet letter "tav" indicates mark or sign.
 
+## Installation
+
+You can install *tav* as usual - by copy "tav" directory in your 
+`~/.node_libraries` or via *npm*
+
+    npm install tav
+
 ## Usage
 
 *tav* was written for brain-free usage. All you need - import it and run a 
