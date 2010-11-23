@@ -1,0 +1,26 @@
+{
+    "name" : "tav",
+    "description" : "Brain-free command-line options parser for node.js",
+    "version" : "0.1",
+    "main" : "./index",
+    "author" : "Alexander Dorofeev",
+    "maintainers" : [
+        {
+            "name" : "Alexander Dorofeev",
+            "email" : "aka.spin@gmail.com"
+        }
+    ],
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/akaspin/tav.git"
+    },
+    "bugs" : {
+        "web" : "http://github.com/akaspin/tav/issues"
+    },
+    "licenses" : [
+        {
+            "type": "MIT",
+            "url": "http://github.com/akaspin/tav/blob/master/LICENSE"
+        }
+    ]
+}
