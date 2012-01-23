@@ -15,7 +15,7 @@
         "url" : "http://github.com/akaspin/tav.git"
     },
     "bugs" : {
-        "web" : "http://github.com/akaspin/tav/issues"
+        "url" : "http://github.com/akaspin/tav/issues"
     },
     "licenses" : [
         {
