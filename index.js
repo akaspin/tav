@@ -118,7 +118,11 @@ Object.defineProperty(tav, "set", {
                         value = parseFloat(value); 
                     }
                 }
-                self[name] = value;
+                if (self[name] instanceof Array) {
+                    self[name].push(value);
+                } else {
+                    self[name] = value;
+                }
             } else {
                 // Just argument
                 self.args.push(chunk);
