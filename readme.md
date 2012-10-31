@@ -1,5 +1,7 @@
 # tav*
 
+*I do not support this more. If you need it, just fork it.*
+
 Command-line options parser for [node.js](http://nodejs.org/).
 
 *In the Phoenician alphabet letter "tav" indicates mark or sign.
